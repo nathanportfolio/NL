@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio_Nathan_Devuyst",
-    "currentPage": "analog.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -420,6 +420,28 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/afb-3-1556x1114.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/afb-3-1556x1114-800x572.jpg",
+                "alt": "",
+                "caption": "Portugal 2k17",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/afb-1-622x864.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-1-622x864-622x864.jpg",
+                "alt": "",
+                "caption": "Portugal 2k17",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/afb-2-752x1052.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afb-2-752x1052-752x1052.jpg",
                 "alt": "",
                 "caption": "Portugal 2k17",
                 "active": true
